@@ -17,3 +17,13 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+### Contributing
+
+Contributions are welcome! Please follow these basic guidelines:
+
+1. Fork the repository and create a feature branch from `main`.
+2. Keep changes small and focused; one logical change per pull request.
+3. Make sure the app still runs (`streamlit run streamlit_app.py`) before submitting.
+4. Write clear commit messages and describe your changes in the pull request.
+5. Be respectful and constructive in discussions and reviews.
