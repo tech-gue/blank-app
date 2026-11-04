@@ -17,3 +17,9 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+### Configuration
+
+The app does not currently read any environment variables, so no configuration is required.
+
+If you add some later, list them here (name, purpose, default).
