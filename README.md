@@ -1,3 +1,5 @@
+> Note: This is a starter template; customize it for your own app.
+
 # 🎈 Blank app template
 
 A simple Streamlit app template for you to modify!
