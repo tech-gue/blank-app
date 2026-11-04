@@ -1,3 +1,4 @@
+# Purpose: minimal Streamlit demo app (demo variant 1).
 import streamlit as st
 
 st.title("🎈 My new app")
