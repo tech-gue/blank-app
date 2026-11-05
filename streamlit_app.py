@@ -1,3 +1,4 @@
+# A minimal Streamlit starter app that displays a title and a link to the Streamlit docs.
 import streamlit as st
 
 st.title("🎈 My new app")
