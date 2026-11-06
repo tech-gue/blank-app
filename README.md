@@ -17,3 +17,5 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+Platypus multimodal marker: ZQ7X-2271
